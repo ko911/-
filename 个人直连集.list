@@ -11,8 +11,8 @@ DOMAIN-SUFFIX,jjww.gmp.csg.cn
 DOMAIN-SUFFIX,sofire.baidu.com
 DOMAIN-SUFFIX,static.tieba.baidu.com
 # 谷歌直连
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+#DOMAIN-SUFFIX,googleapis.cn
+#DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 # 游戏
 DOMAIN-SUFFIX,gamer520.com
 # NT 动漫
