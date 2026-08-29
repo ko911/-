@@ -18,6 +18,6 @@ DOMAIN-SUFFIX,gamer520.com
 # NT 动漫
 DOMAIN-SUFFIX,ntdmw02.cc
 # 拼多多
-#DOMAIN-KEYWORD,pinduoduo
+DOMAIN-KEYWORD,pinduoduo
 #实名制
 DOMAIN-SUFFIX,zhgkxt.com
