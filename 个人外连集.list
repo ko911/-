@@ -29,10 +29,11 @@ DOMAIN-SUFFIX,mi9.com
 DOMAIN-SUFFIX,ziperto.com
 
 DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,cloudflare
 DOMAIN-SUFFIX,bbs.viva-la-vita.org
-
+# 关键词
 DOMAIN-KEYWORD,beidewu
+DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,youtube
 # Litube油管
  DOMAIN-KEYWORD,yt3.ggpht.com
  DOMAIN-KEYWORD,returnyoutubedislikeapi.com
