@@ -40,14 +40,14 @@ DOMAIN-SUFFIX,e0ik.yinghua
 # 黄色广告IP匹配
 IP-CIDR,154.215.111.226/32,no-resolve
 # IDM更新屏蔽
-DOMAIN-SUFFIX,tonec.com
-DOMAIN-SUFFIX,registeridm.com
-DOMAIN-SUFFIX,secure.registeridm.com
-DOMAIN-SUFFIX,internetdownloadmanager.com
-DOMAIN-SUFFIX,secure.internetdownloadmanager.com
-DOMAIN-SUFFIX,mirror.internetdownloadmanager.com
-DOMAIN-SUFFIX,mirror2.internetdownloadmanager.com
-DOMAIN-SUFFIX,mirror3.internetdownloadmanager.com
+#DOMAIN-SUFFIX,tonec.com
+#DOMAIN-SUFFIX,registeridm.com
+#DOMAIN-SUFFIX,secure.registeridm.com
+#DOMAIN-SUFFIX,internetdownloadmanager.com
+#DOMAIN-SUFFIX,secure.internetdownloadmanager.com
+#DOMAIN-SUFFIX,mirror.internetdownloadmanager.com
+#DOMAIN-SUFFIX,mirror2.internetdownloadmanager.com
+#DOMAIN-SUFFIX,mirror3.internetdownloadmanager.com
 
 
 
